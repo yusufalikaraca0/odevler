@@ -1,0 +1,15 @@
+C:\Users\yusuf\source\repos\070\070\bin\Debug\net6.0\070.exe
+C:\Users\yusuf\source\repos\070\070\bin\Debug\net6.0\070.deps.json
+C:\Users\yusuf\source\repos\070\070\bin\Debug\net6.0\070.runtimeconfig.json
+C:\Users\yusuf\source\repos\070\070\bin\Debug\net6.0\070.dll
+C:\Users\yusuf\source\repos\070\070\bin\Debug\net6.0\ref\070.dll
+C:\Users\yusuf\source\repos\070\070\bin\Debug\net6.0\070.pdb
+C:\Users\yusuf\source\repos\070\070\obj\Debug\net6.0\070.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\070\070\obj\Debug\net6.0\070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\070\070\obj\Debug\net6.0\070.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\070\070\obj\Debug\net6.0\070.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\070\070\obj\Debug\net6.0\070.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\070\070\obj\Debug\net6.0\070.dll
+C:\Users\yusuf\source\repos\070\070\obj\Debug\net6.0\ref\070.dll
+C:\Users\yusuf\source\repos\070\070\obj\Debug\net6.0\070.pdb
+C:\Users\yusuf\source\repos\070\070\obj\Debug\net6.0\070.genruntimeconfig.cache
