@@ -1,0 +1,11 @@
+C:\Users\yusuf\source\repos\kütüphane\kütüphane\bin\Debug\kütüphane.exe.config
+C:\Users\yusuf\source\repos\kütüphane\kütüphane\bin\Debug\kütüphane.exe
+C:\Users\yusuf\source\repos\kütüphane\kütüphane\bin\Debug\kütüphane.pdb
+C:\Users\yusuf\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.Form1.resources
+C:\Users\yusuf\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.Properties.Resources.resources
+C:\Users\yusuf\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.exe
+C:\Users\yusuf\source\repos\kütüphane\kütüphane\obj\Debug\kütüphane.pdb
